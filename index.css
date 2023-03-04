@@ -6,3 +6,12 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 color: rgb(238, 247, 248);
 
 }
+
+.titulo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: hsl(240, 15%, 90%);
+
+}
