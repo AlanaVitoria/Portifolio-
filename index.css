@@ -1,9 +1,9 @@
 body{
-background-color: rgba(125, 62, 156, 0.884);
+background-color: rgb(253, 251, 253);
 font-size: x-large;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
-color: rgb(236, 246, 247);
+color: rgb(17, 16, 16);
 
 }
 
@@ -12,7 +12,7 @@ color: rgb(236, 246, 247);
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  color: hsl(240, 15%, 90%);
+  color: hsl(240, 3%, 6%);
   font-size: xx-large;
 
 }
