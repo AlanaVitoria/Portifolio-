@@ -1,5 +1,6 @@
 body{
-background-color: rgb(253, 251, 253);
+  text-align: center;
+background-color: rgb(250, 248, 250);
 font-size: x-large;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -20,3 +21,20 @@ color: rgb(17, 16, 16);
 .sla {
  font-size: xx-large; 
 }
+
+.logo{
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+}
+
+.logoinsta{
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+}
+
