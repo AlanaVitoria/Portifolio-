@@ -18,8 +18,8 @@ color: rgb(17, 16, 16);
 
 }
 
-.sla {
- font-size: xx-large; 
+.container_p {
+  max-width: 600px;
 }
 
 .logo{
