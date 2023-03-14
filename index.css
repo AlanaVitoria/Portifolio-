@@ -1,6 +1,6 @@
 body{
   text-align: center;
-background-color: rgb(250, 248, 250);
+background-color: rgb(255, 255, 255);
 font-size: x-large;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -28,6 +28,7 @@ color: rgb(17, 16, 16);
   align-items: center;
   justify-content: space-around;
   color: black;
+  font-size: xx-large;
 }
 
 .logoinsta{
@@ -36,5 +37,5 @@ color: rgb(17, 16, 16);
   align-items: center;
   justify-content: space-around;
   color: black;
+  font-size: xx-large;
 }
-
